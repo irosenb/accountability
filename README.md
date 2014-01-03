@@ -10,5 +10,10 @@ Keeping myself accountable. Please raise an issue of items here that haven't bee
 - Go to NY Tech Meetup 
 - Stop being lazy 
 - Get an internship
+- Make this into a website
+
+# Projects
+
+- Accountable - Turn this into website
 
 

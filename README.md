@@ -6,7 +6,6 @@ Keeping myself accountable. Please raise an issue of items here that haven't bee
 # To Do
 
 - Get [Cleanist] (https://github.com/irosenb/cleanist_rails) onto server
-- Rename [cleanist_rails] (https://github.com/irosenb/cleanist_rails) github repo to cleanist
 - Go to NY Tech Meetup 
 - Stop being lazy 
 - Get an internship

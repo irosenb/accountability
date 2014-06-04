@@ -8,11 +8,7 @@ Keeping myself accountable. Please raise an issue of items here that haven't bee
 - Get [Cleanist] (https://github.com/irosenb/cleanist_rails) onto server
 - Go to NY Tech Meetup 
 - Stop being lazy 
-- Get an internship
-- Make this into a website
+- ~~Get an internship~~
 
 # Projects
-
-- Accountable - Turn this into website
-
 
